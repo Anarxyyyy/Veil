@@ -1,11 +1,5 @@
-making a os cs im bored
+very bad os that i attempted to make then gave up
 
-prob wont work on it a lot cs it's hard asl
+for now just a bootloader 
 
-making ts in assembly, C, C++ and rust
-
-if you see this catfish
-
-hi twin❤️‍🩹✌️
-
-also check wix twin❤️‍🩹✌️
+MIGHT get to it at some point
